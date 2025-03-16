@@ -15,3 +15,7 @@ A sleek and modern weather application built using **React** and **Material UI**
 🔹 **OpenWeatherMap API** (or any weather API you used)  
 
 📌 **Try it out and stay updated with the weather!** ☁️🌍  
+## 🌍 Live Demo  
+🚀 Check out the live version here:  
+🔗 [Weather App Live](https://mini-project-react-9wysd3x6z-deepak-mers-projects.vercel.app)
+
