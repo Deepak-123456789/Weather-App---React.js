@@ -1,8 +1,16 @@
-# React + Vite
+🌦 Weather App ⛅ | React + Material UI
+A sleek and modern weather application built using React and Material UI, providing real-time weather updates for any location worldwide.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features:
+✅ Real-time Weather Data – Get current temperature, humidity, wind speed, and more.
+✅ Beautiful UI – Responsive and visually appealing design powered by Material UI.
+✅ Search by City – Find weather details of any location with ease.
+✅ Dynamic Backgrounds – Changes based on weather conditions.
+✅ API Integration – Fetches live weather data from a trusted source.
 
-Currently, two official plugins are available:
+🚀 Tech Stack:
+🔹 React.js
+🔹 Material UI
+🔹 OpenWeatherMap API (or any weather API you used)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📌 Try it out and stay updated with the weather! ☁️🌍
