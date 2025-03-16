@@ -1,0 +1,17 @@
+.app-container {
+  background-color: azure;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.weather-container {
+  background-color: rgba(230, 230, 250, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); /* Reduced opacity for a softer effect */
+  width: 350px;
+  text-align: center;
+  color: black;
+}
